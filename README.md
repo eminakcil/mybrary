@@ -1,2 +1,2 @@
-# Önizleme (heroku)
-https://aqueous-chamber-05008.herokuapp.com/
+# (Heroku)
+https://emin-my-brary.herokuapp.com/
